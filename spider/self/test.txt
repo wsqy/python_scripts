@@ -1,0 +1,10 @@
+FreeBuf黑客与极客	【深度：针对超强手机木马DenDroid的分析与测试】关于Dendroid这款手机木马FreeBuf上曾有介绍《赛门铁克发现名为Dendroid的超强手机木马》，那么今天我们就来研究下这款号称需要300美元的手机远控木马。本文最后会提供相关工具包，有兴趣的同学可以下载哦。详情：http://t.cn/RZVyPTK	http://ww1.sinaimg.cn/wap180/78e4b8d4gw1enzlu9yx0nj2064046q31.jpg	2015-01-06 17:17:00
+FreeBuf黑客与极客	【FreeBuf公开课：Metasploit系列教程第二季（T00ls出品）】本次视频T00ls安全社区联合FreeBuf公开课发布，目前已经在FreeBuf公开课上架。详情：http://t.cn/RZVUizm	http://ww1.sinaimg.cn/wap180/78e4b8d4gw1enzoq4asunj20d108lt9v.jpg	2015-01-06 17:16:56
+FreeBuf黑客与极客	【WiFi安全测试工具、蹭网利器 – WiFiPhisher】希腊安全研究员开发了一个名为WiFiPhisher的WiFi安全测试工具，虽然现在网上有很多可以破解无线网络的工具，但WiFiPhisher与之不同。这个工具的攻击原理有点意思，大家不妨一看。详情：http://t.cn/RZVXML8	http://ww2.sinaimg.cn/wap180/78e4b8d4gw1enzt8n54wqj20ei0fy0u4.jpg	2015-01-06 17:16:03
+黄源小童鞋	上次拉进公司的小鲜肉@0xr0ot 和他的小伙伴@Xbalien 发现的Android app通用型拒绝服务漏洞一枚，通用型本地拒绝服务可以造成大面积的app拒绝服务。 http://t.cn/RZV678R BTW，跟着@RAyH4c 大牛果然成长很快啊，加油！	http://ww3.sinaimg.cn/wap180/68b06ad9jw1enzuuq80vfj20e60ant9t.jpg	2015-01-06 17:15:29
+矮穷龊-陆羽	尼玛。这辈子都会记住这句话：[mysqld] skip-name-resolve。mysql链接巨慢的原因！一点调试出来。。。	http://ww3.sinaimg.cn/wap180/68b06ad9jw1enzuuq80vfj20e60ant9t.jpg	2015-01-06 17:14:54
+GitCafe	和玉资本、联创资本领投 GitCafe Pre-A 轮，融资额上千万人民币 http://t.cn/RZtcpmy	http://ww4.sinaimg.cn/wap180/93b87ee8gw1enxp949rcxj20k00b4t8y.jpg	2015-01-06 17:14:44
+FreeBuf黑客与极客	【XSS的原理分析与解剖：第四章（编码与绕过）】很抱歉，这第四章被我推了几个月，今天是元旦难得有空，就把第四章写下。我先把主要使用的编码说下，介绍完会说下绕过。详情：http://t.cn/RZtPfmZ 文/@_Black-Hole_	http://ww4.sinaimg.cn/wap180/78e4b8d4gw1enxp65ptsvj20hs0dcmz5.jpg	2015-01-05 09:34:27
+redrain_QAQ	http://t.cn/RZtCcc2 ok了，栗子炒完了，本文介绍了一些炒栗子的方法，液～	http://ww4.sinaimg.cn/wap180/78e4b8d4gw1enxp65ptsvj20hs0dcmz5.jpg	2015-01-05 00:30:31
+原创	发表了博文《合天网安实验室---CTFMisc练习1》CTFMisc练习1实验视频：预备知识DOS命令Dos命令，是Dos操作系统(当然Windows里面也还是存在)的命令，是一种面向磁盘的操作命令，合天网安实验室---CTFMisc练习1	http://ww4.sinaimg.cn/wap180/78e4b8d4gw1enxp65ptsvj20hs0dcmz5.jpg	2015-01-04 17:58:45
+SecPulse	分享两篇SQL Server存储过程Hacking的文章 小编可以安心去玩dota虐菜了。 SQL Server存储过程Hacking（I）之可信数据库 http://t.cn/RZGa4Qa SQL Server存储过程Hacking（II）之用户冒充 http://t.cn/RZGOcwH	http://ww1.sinaimg.cn/wap180/005I0tSajw1envbstjyfrj30pi0cpgrx.jpg	2015-01-03 18:57:15

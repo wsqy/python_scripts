@@ -1,0 +1,10 @@
+urllib包的一些东西
+四大模块
+urllib.request 		(for opening and reading URLs 
+urllib.error 		(containing the exceptions raised by urllib.request 
+urllib.parse 		(for parsing URLs 
+urllib.robotparser  (for parsing robots.txt files 
+
+第一步：正常打开一个网页
+
+

@@ -1,0 +1,35 @@
+电梯和线程：
+		如果把电梯比作一个线程，那人就比作一个个信号量，而们就是那个锁。
+	
+	对于可重入锁，当有人请求电梯的时候，开锁（锁）这个人进入电梯。相当于
+	相当于这个信号量被这个线程接收。因为是可重入的。所以这里面的人出门相
+	当于释放了一个锁。
+	
+	对于互斥锁，可以类比成级联的电梯。当有一个人（信号量）在请求电梯的时候，
+	几个电梯同事响应这个请求，但当有一个电梯获得这个人（信号量），则其他的电
+	梯就停止运行。
+	
+	可以把电梯运行的过程到响应一个请求的时间类比成线程的挂起时间。
+	
+socket编程：
+	TCP：
+	服务端：
+		1、建立一个socket套接字：socket= socket.socket()
+		2、绑定一个IP和PORT ：socket.bind((IP, PORT))
+		3、设置监听的数目： socket.listen(listenNum)
+		4、进行accept等待客户端的连接：socket.accpet()
+		5、调用send或者recv进行数据的发送和接收
+		
+	客户端：
+		1、建立一个socket套接字：socket= socket.socket()
+		2、直接进行连接：socket.connect((IP, PORT))
+		3、调用send或者recv进行数据的发送和接收
+		
+	UDP：
+	服务端：
+		1、建立一个socket套接字：socket= socket.socket()
+		2、绑定一个IP和PORT ：socket.bind((IP, PORT))
+		3、调用sendto或者recvfrom进行数据的发送和接收
+	客户端：
+		1、建立一个socket套接字：socket= socket.socket()
+		3、调用sendto或者recvfrom进行数据的发送和接收
